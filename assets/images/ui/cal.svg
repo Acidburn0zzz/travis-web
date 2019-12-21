@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="11" width="11">
-<rect ry="0.5" height="8" width="10" stroke="#888" y="2.5" x="0.5" stroke-width="1" fill="none"/>
-<path fill="#888" d="M3,6,2,7,4,9,9,5,8,4,4,7z"/>
-<rect ry="0.5" height="2.5" width="2" stroke="#888" y="0.5" x="1.5" stroke-width="0.75" fill="none"/>
-<rect ry="0.5" height="2.5" width="2" stroke="#888" y="0.5" x="4.5" stroke-width="0.75" fill="none"/>
-<rect ry="0.5" height="2.5" width="2" stroke="#888" y="0.5" x="7.5" stroke-width="0.75" fill="none"/>
-<rect height="0.5" width="9" y="3" x="1" fill="#888"/>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11"><rect width="10" height="8" x=".5" y="2.5" fill="none" stroke="#888" stroke-width="1" ry=".5"/><path fill="#888" d="M3,6,2,7,4,9,9,5,8,4,4,7z"/><rect width="2" height="2.5" x="1.5" y=".5" fill="none" stroke="#888" stroke-width=".75" ry=".5"/><rect width="2" height="2.5" x="4.5" y=".5" fill="none" stroke="#888" stroke-width=".75" ry=".5"/><rect width="2" height="2.5" x="7.5" y=".5" fill="none" stroke="#888" stroke-width=".75" ry=".5"/><rect width="9" height=".5" x="1" y="3" fill="#888"/></svg>
