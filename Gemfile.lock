@@ -57,7 +57,7 @@ GEM
       thor (>= 0.18.1)
     hashr (0.0.22)
     hitimes (1.2.2)
-    json (1.8.1)
+    json (2.5.1)
     libv8 (3.16.14.7)
     listen (2.7.11)
       celluloid (>= 0.15.2)
